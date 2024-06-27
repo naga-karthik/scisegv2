@@ -1,6 +1,6 @@
 # SCIsegV2: A Universal Tool for Segmentation of Intramedullary Lesions in Spinal Cord Injury
 
-This repository contains the official code for our MICCAI AMAI submission titled "SCIsegV2: A Universal Tool for Intramedullary Lesions in Spinal Cord Injury"
+This repository contains the official code for our [MICCAI AMAI 2024](https://sites.google.com/view/amai2024/home?pli=1) submission titled "SCIsegV2: A Universal Tool for Intramedullary Lesions in Spinal Cord Injury"
 
 ## Using SCIsegV2
 
