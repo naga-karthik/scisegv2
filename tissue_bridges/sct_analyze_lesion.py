@@ -5,6 +5,11 @@
 # Copyright (c) 2014 Polytechnique Montreal <www.neuro.polymtl.ca>
 # License: see the file LICENSE
 
+# NOTE: This is the entire script used for computing lesion metrics using `sct_analyze_lesion`. Please head to 
+# the function `_measure_tissue_bridges` for details on the computaion of the tissue bridges. 
+# Please also note that you must have install Spinal Cord Toolbox to run any part of this script. 
+# Installation details can be found at https://spinalcordtoolbox.com/user_section/installation.html
+
 import os
 import sys
 import pickle
