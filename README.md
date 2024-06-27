@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ### Running the code
 
-1. Given that our datasets were in BIDS format, we provide a script that converts BIDS-formatted datasets to the nnUNet format. The usage examples are provided in 
+1. Given that our datasets were in [BIDS](https://bids-specification.readthedocs.io/en/stable/) format, we provide a script that converts BIDS-formatted datasets to the nnUNet format. The usage examples are provided in 
 `dataset_conversion/convert_bids_to_nnUNetv2_all_sci_data.py`
 
 2. Once nnUNet is installed, define the required variables in `training_scripts/run_scisegv2.sh` and run the following command:
